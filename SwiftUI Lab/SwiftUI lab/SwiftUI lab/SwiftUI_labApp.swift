@@ -2,7 +2,7 @@
 //  SwiftUI_labApp.swift
 //  SwiftUI lab
 //
-//  Created by Nikita on 01.12.2023.
+//  Created by Ekaterina on 01.12.2023.
 //
 
 import SwiftUI
